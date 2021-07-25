@@ -1,8 +1,13 @@
 # Hi there 👋
  Hi, my name is Oscie, and I make things, do things, make more things and do more things!
 
+- I am currently working on [Cookie Bot](https://github.com/nt-he/cookie-bot) (WIP and Not OSS yet)
+- Pronouns: He/They
+- Fun Fact: Cats have 230 bones, while humans only have 206
+
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
----
+
+<br/><br/>
 
 <table>
   <tr>
