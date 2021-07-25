@@ -7,8 +7,6 @@
 
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<br/><br/>
-
 <table>
   <tr>
     <td style="padding: 0; width=50%">
