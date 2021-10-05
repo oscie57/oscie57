@@ -5,6 +5,6 @@ Hi, my name is scor, and I make things, do things, make more things and do more 
 - Fun Fact: Cats have 230 bones, while humans only have 206
 
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+![](https://discord-md-badge.vercel.app/api/shield/729135459405529118)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scor57&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true) ![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=scor57&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)
