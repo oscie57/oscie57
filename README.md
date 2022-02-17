@@ -1,6 +1,6 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/oscie57" height="150" width="150"></p>
-    <h3 align="center">Oscar Hudson・He/They (14)</h3>
+    <h3 align="center">Oscar Hudson・<a href="https://en.pronouns.page/@oscie">He/They</a> (14)</h3>
 </div></center>
 
 
