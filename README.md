@@ -1,5 +1,6 @@
 # hi there 👋
 hey! my name is oscie, and i make things, do things, make more things and do more things!
+you may notice that i dont have many repositories, but that is because most of my work is done on organisations, or i dont like the repository and delete it
 - i am currently working on many projects! a quick example is [secret-shopper-servicing](https://github.com/Secret-Shopper-Servicing), joke programs (mostly) made in visual basic.
 - my pronouns are he/they!
 - fun fact: cats have 230 bones, while humans only have 206
