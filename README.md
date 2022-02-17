@@ -36,6 +36,15 @@ English Native, French Conversational, Japanese Lower-Basic
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="64" height="64"/>&nbsp;
 
+## Organizations (I do most of my work here)
+<img src="https://avatars.githubusercontent.com/WiiLink24" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/XConnect24" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/Warp-Studios" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/TurtleNet" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/StriimNetwork" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/nt-he" width="64" height="64"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/Secret-Shopper-Servicing" width="64" height="64"/>&nbsp;
+
 ## Support Me
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
