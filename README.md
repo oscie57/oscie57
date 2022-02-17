@@ -1,9 +1,13 @@
-![](https://avatars.githubusercontent.com/oscie57)
+<div><center>
+    <p align="center"><img src="https://avatars.githubusercontent.com/oscie57" height="150" width="150"></p>
+    <h3 align="center">Oscar Hudson・He/They (14)</h3>
+</div></center>
+
+
 # Hi there 👋
 Hey! My name is Oscar, and I make things, do things, make more things and do more things!
 You may notice that I dont have many repositories, but that is because most of my work is done on organisations, or I dont like the repository and delete it
 - I am currently working on many projects! A quick example is [Secret-Shopper-Servicing](https://github.com/Secret-Shopper-Servicing), joke programs (mostly) made in VB.NET
-- My pronouns are He/They!
 - Fun fact: Cats have 230 bones, while humans only have 20!
 
 ## Programming Languages
