@@ -1,6 +1,6 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/oscie57" height="150" width="150"></p>
-    <h3 align="center">Oscar Hudson・<a href="https://en.pronouns.page/@oscie">He/They</a> (14)</h3>
+    <h3 align="center">Oscar Hudson・Full-time Student</h3>
 </div></center>
 
 
@@ -9,6 +9,7 @@ Hey! My name is Oscar, and I make things, do things, make more things and do mor
 You may notice that I dont have many repositories, but that is because most of my work is done on organisations, or I dont like the repository and delete it
 - I am currently working on many projects! A quick example is [Secret-Shopper-Servicing](https://github.com/Secret-Shopper-Servicing), joke programs (mostly) made in VB.NET
 - Fun fact: Cats have 230 bones, while humans only have 206!
+- My pronouns are <a href="https://en.pronouns.page/he&they">He/They</a> and I am 14 years of age as of writing.
 
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>&nbsp;
