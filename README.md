@@ -50,5 +50,6 @@ English Native, French Conversational, Japanese Lower-Basic
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Statistics
-|![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=oscie57&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oscie57&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)|
+|![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=oscie57&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)|![My top language](https://github-readme-stats.vercel.app/api/top-langs/?username=oscie57&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true)
+|
 |-|-|
