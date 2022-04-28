@@ -50,6 +50,7 @@ English Native, French Conversational, Japanese Lower-Basic
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### Supporters
+A very big thank you to all of my supporters!
 
 <img src="https://github.com/oscie57/oscie57/blob/main/supporters/GeneralBison.png" width="128" height="128"/>&nbsp;
 
