@@ -51,6 +51,7 @@ English Native, French Conversational, Japanese Lower-Basic, Hebrew Alphabetical
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/oscie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7DU6KW)
 
 ### Supporters
 A very big thank you to all of my supporters!
