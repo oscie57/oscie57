@@ -7,7 +7,7 @@
 # Hi there 👋
 Hey! My name is Oscar, and I make things, do things, make more things and do more things!
 You may notice that I dont have many repositories, but that is because most of my work is done on organisations, or I dont like the repository and delete it
-- I am currently working on many projects! A quick example is [Secret-Shopper-Servicing](https://github.com/Secret-Shopper-Servicing), joke programs (mostly) made in VB.NET
+- I am currently working on many projects! A quick example is [TikTok TTS](https://github.com/oscie57/tiktok-voice).
 - Fun fact: Cats have 230 bones, while humans only have 206!
 - My pronouns are <a href="https://en.pronouns.page/he&they">He/They</a> and I am 14 years of age as of writing.
 
