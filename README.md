@@ -1,11 +1,11 @@
 <div><center>
     <p align="center"><img src="https://avatars.githubusercontent.com/oscie57" height="150" width="150"></p>
-    <h3 align="center">oscie</h3>
+    <h3 align="center">Oscar Hudson・Student</h3>
 </div></center>
 
 
 # Hi there 👋
-Hey! My name is oscie, and I make things, do things, make more things and do more things!
+Hey! My name is Oscar, and I make things, do things, make more things and do more things!
 You may notice that I dont have many repositories, but that is because most of my work is done on organisations, or I dont like the repository and delete it
 - I am currently working on many projects! A quick example is [TikTok TTS](https://github.com/oscie57/tiktok-voice).
 - Fun fact: Cats have 230 bones, while humans only have 206!
